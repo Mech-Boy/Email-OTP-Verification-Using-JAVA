@@ -55,6 +55,4 @@ Contributions to enhance the project functionality or improve its documentation 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-You can copy this Markdown code block and paste it into the README.md file in your GitHub repository. Let me know if you need further assistance!
